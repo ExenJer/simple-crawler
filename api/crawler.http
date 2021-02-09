@@ -1,0 +1,12 @@
+POST http://localhost:8080/crawler
+Content-Type: application/json
+
+{
+  "urls": [
+    "https://exenjer.ru",
+    "https://medium.com/@gustavo.ponce.ch/spring-boot-spring-mvc-spring-security-mysql-a5d8545d837d",
+    "https://www.google.com/search?newwindow=1&sxsrf=ALeKk02ttdPiPXyHk-m8DFhVD38obe51wA%3A1612879895297&source=hp&ei=F5giYNaAD-6MrwSB556IAQ&q=lorem+ipsum&oq=lore&gs_lcp=CgZwc3ktYWIQAxgAMgIIADIICC4QxwEQowIyAgguMgIIADICCC4yAgguMgIIADICCAAyAggAMgIIADoECCMQJzoFCAAQkQI6BwgjEOoCECc6BQguEJMCOggILhDHARCvAToECAAQCjoICC4QywEQkwI6BQgAEMsBOgsILhDHARCvARDLAToFCC4QywFQhAVYwuoCYP3vAmgFcAB4AIABowGIAaYJkgEEMTIuM5gBAKABAaoBB2d3cy13aXqwAQo&sclient=psy-ab"
+  ]
+}
+
+###
